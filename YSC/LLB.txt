@@ -246,7 +246,7 @@
             "name": "🏄️春盈线路"
         },		
           {
-            "url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json",
+            "url":"https://gitee.com/li-chao2333/ysc/raw/master/XL/2hacc.json",
             "name": "🏄️二哈线路"
         },
           {
