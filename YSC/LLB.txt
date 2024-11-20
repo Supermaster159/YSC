@@ -63,7 +63,7 @@
             "name": "TSQ线路"
         },
         {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/湘雅情.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": " 🍳香雅情"
         },  
         {
@@ -75,7 +75,7 @@
             "name": "🚀运输车(有跑马灯)"
         },
         {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/dxawi0.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/南风.json",
             "name": "🐹南风线路（转）"
         },
         {
