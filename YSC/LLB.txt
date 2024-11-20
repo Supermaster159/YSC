@@ -10,7 +10,7 @@
             "name": " 🧀肥猫宝贝"
         },               
        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小米.json",
             "name": " 🥞小米线路"
         },               
        {
