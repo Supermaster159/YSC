@@ -63,7 +63,7 @@
             "name": "TSQ线路"
         },
         {
-            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/湘雅情.json",
             "name": " 🍳香雅情"
         },  
         {
