@@ -242,7 +242,7 @@
             "name": "🏄️月儿线路"
         },
           {
-            "url":"https://wds.ecsxs.com/230989.json",
+            "url":"https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
             "name": "🏄️春盈线路"
         },		
           {
