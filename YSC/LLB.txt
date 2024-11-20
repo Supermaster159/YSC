@@ -22,7 +22,7 @@
             "name": " 🥞俊佬线路"
         },                  
        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/道长.json",
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": " 🥞道长线路"
         },           
        {
