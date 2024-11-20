@@ -1,24 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
-    "lives": [
-        {
-          "name": "本地live文件",
-          "type":"0",
-          "pass": true,
-          "url":"http://127.0.0.1:9978/file/XYQTVBox/live.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name": "FMM_IPV6",
-          "type":"0",
-          "pass": true,
-          "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
+    "lives": [],
     "sites": [
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/drpy.js"},
