@@ -67,7 +67,7 @@
             "name": " 🍳香雅情"
         },  
                 {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/湘雅情.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/xya.json",
             "name": " 🍳香雅情（改）"
         },  
         {
