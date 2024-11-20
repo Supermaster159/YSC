@@ -51,7 +51,7 @@
             "name": "祥子影视"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
+            "url": "https://tv.菜妮丝.top",
             "name": "菜妮丝线路"
         },
         {
