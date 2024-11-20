@@ -38,6 +38,10 @@
             "name": " 🥓Ray线路"
         },
         {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/One.json",
+            "name": " 🥓One线路"
+        },
+        {
             "url": "http://liucn.cc/box/m.json",
             "name": "🥚老刘CC"
         },                                                     
