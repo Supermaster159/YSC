@@ -30,7 +30,7 @@
             "name": " 🥞牛蛙线路"
         },   
        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/次元.json",
             "name": " 🥞次元分享"
         },                 
         {
