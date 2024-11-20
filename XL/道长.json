@@ -16,15 +16,15 @@
 			"ext": "./drpy_js/360影视[官].js"
 		},
 		{
-			"key": "hipy_js_菜狗[官]",
-			"name": "菜狗[官](drpy_t3)",
+			"key": "hipy_js_菜菜[官]",
+			"name": "菜菜[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/菜狗[官].js"
+			"ext": "./drpy_js/菜菜[官].js"
 		},
 		{
 			"key": "hipy_js_奇珍异兽[官]",
@@ -448,15 +448,15 @@
 			"ext": "./drpy_js/啊哈DJ[听].js"
 		},
 		{
-			"key": "hipy_js_爱爱影院[密]",
-			"name": "爱爱影院[密](drpy_t3)",
+			"key": "hipy_js_爱知影院[密]",
+			"name": "爱知影院[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/爱爱影院[密].js"
+			"ext": "./drpy_js/爱知影院[密].js"
 		},
 		{
 			"key": "hipy_js_爱车MV[听]",
@@ -1302,15 +1302,15 @@
 			"ext": "./drpy_js/多多追剧[优].js"
 		},
 		{
-			"key": "hipy_js_番号资源[密]",
-			"name": "番号资源[密](drpy_t3)",
+			"key": "hipy_js_外番资源[密]",
+			"name": "外番资源[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/番号资源[密].js"
+			"ext": "./drpy_js/外番资源[密].js"
 		},
 		{
 			"key": "hipy_js_番茄小说[书]",
@@ -1555,15 +1555,15 @@
 			"ext": "./drpy_js/黑料不打烊[密].js"
 		},
 		{
-			"key": "hipy_js_黑木耳资源[资]",
-			"name": "黑木耳资源[资](drpy_t3)",
+			"key": "hipy_js_黑木资源[资]",
+			"name": "黑木资源[资](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/黑木耳资源[资].js"
+			"ext": "./drpy_js/黑木资源[资].js"
 		},
 		{
 			"key": "hipy_js_恒大影视[密]",
@@ -1755,15 +1755,15 @@
 			"ext": "./drpy_js/九牛电影.js"
 		},
 		{
-			"key": "hipy_js_九妖仓库[密]",
-			"name": "九妖仓库[密](drpy_t3)",
+			"key": "hipy_js_9-1仓库[密]",
+			"name": "9-1仓库[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/九妖仓库[密].js"
+			"ext": "./drpy_js/9-1仓库[密].js"
 		},
 		{
 			"key": "hipy_js_橘子柚[盘]",
@@ -2887,15 +2887,15 @@
 			"ext": "./drpy_js/三集电影[自动].js"
 		},
 		{
-			"key": "hipy_js_色库[密]",
-			"name": "色库[密](drpy_t3)",
+			"key": "hipy_js_sek[密]",
+			"name": "sek[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/色库[密].js"
+			"ext": "./drpy_js/sek[密].js"
 		},
 		{
 			"key": "hipy_js_闪雷电",
@@ -4664,15 +4664,15 @@
 			"order_num": 9999
 		},
 		{
-			"key": "hipy_js_Pornhub[密]",
-			"name": "Pornhub[密](drpy_t3)",
+			"key": "hipy_js_PH[密]",
+			"name": "PH[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/Pornhub[密].js"
+			"ext": "./drpy_js/PH[密].js"
 		},
 		{
 			"key": "hipy_js_PTT[优]",
@@ -4697,17 +4697,6 @@
 			"ext": "./drpy_js/PTT追剧大师.js"
 		},
 		{
-			"key": "hipy_js_R18撸[密]",
-			"name": "R18撸[密](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/R18撸[密].js"
-		},
-		{
 			"key": "hipy_js_rarbt(全)[优]",
 			"name": "rarbt(全)[优](drpy_t3)",
 			"type": 3,
@@ -4728,17 +4717,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/rarbt[优].js"
-		},
-		{
-			"key": "hipy_js_RjAv[密]",
-			"name": "RjAv[密](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/RjAv[密].js"
 		},
 		{
 			"key": "SambaShare",
@@ -4776,17 +4754,6 @@
 			"ext": "./drpy_js/TVB云播.js"
 		},
 		{
-			"key": "hipy_js_UAA[密]",
-			"name": "UAA[密](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/UAA[密].js"
-		},
-		{
 			"key": "hipy_js_UAA[听]",
 			"name": "UAA[听](drpy_t3)",
 			"type": 3,
@@ -4808,17 +4775,6 @@
 			"order_num": 0,
 			"ext": "./drpy_js/voflix.js"
 		},
-		{
-			"key": "hipy_js_xvideos涩涩[密]",
-			"name": "xvideos涩涩[密](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/xvideos涩涩[密].js"
-		}
 	],
 	"parses": [
 		{
