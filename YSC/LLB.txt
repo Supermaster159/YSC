@@ -51,8 +51,8 @@
             "name": " 💜吾爱线路"
         },
         {
-            "url": "http://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/main/hys4k.json",
-            "name": "祥子影视"
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/潇洒.json",
+            "name": "🐹潇洒线路（改）"
         },
         {
             "url": "https://tv.菜妮丝.top",
@@ -67,7 +67,7 @@
             "name": " 🍳香雅情"
         },  
                 {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/xya.json",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/xyq.json",
             "name": " 🍳香雅情（改）"
         },  
         {
