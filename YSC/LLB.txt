@@ -55,7 +55,7 @@
             "name": "🐹潇洒线路（改）"
         },
         {
-            "url": "https://tv.菜妮丝.top",
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/菜泥丝.json",
             "name": "菜妮丝线路"
         },
         {
