@@ -1,0 +1,88 @@
+{
+    "urls": [
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/dxawi0.json",
+            "name": " 🥨dxawi0"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/菜泥丝.json",
+            "name": "🥨菜妮丝线路"
+        },
+       {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小米.json",
+            "name": " 🥨小米线路"
+        },               
+       {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/技巧.json",
+            "name": " 🥨技巧线路"
+        }, 
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/南风.json",
+            "name": " 🥨南风线路"
+        },                 
+       {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/潇洒.json",
+            "name": " 🥨潇洒线路"
+        },                  
+       {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/王二小.json",
+            "name": " 🥨王二小线路"
+        },           
+       {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/次元.json",
+            "name": " 🥨次元分享"
+        },                 
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/01.json",
+            "name": " 🥨Ray线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/One.json",
+            "name": " 🥨One线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/xyq.json",
+            "name": " 🥨湘雅情线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/OK321.json",
+            "name": " 🥨OK线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/TSQ.json",
+            "name": " 🥨TSQ线路"
+        }, 
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/运输车.json",
+            "name": " 🥨运输车"
+        },   
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小马.json",
+            "name": " 🥨小马线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/巧记.json",
+            "name": " 🥨巧记线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/影视中天.json",
+            "name": " 🥨影视中天"
+        },           
+        {
+            "url": "http://liucn.cc/box/m.json",
+            "name": " 🧀老刘CC"
+        },     
+        {
+            "url": "http://肥猫.live",
+            "name": " 🧀肥猫宝贝"
+        },                                                               
+        {
+            "url": "http://tv.nxog.top/m",
+            "name": "🧀欧歌线路"
+        },     
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": " 🧀荷城茶秀"
+        },   
+       ]
+}
