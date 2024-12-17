@@ -45,8 +45,8 @@
             "name": " 🥨巧记线路"
         },
         {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/摸鱼儿.json",
-            "name": " 🥨摸鱼儿线路"
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/mo鱼儿.json",
+            "name": " 🥨mo鱼儿线路"
         },
         {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/饭太硬1.json",
