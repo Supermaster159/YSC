@@ -1,8 +1,0 @@
-{
-    "urls": [
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/dxawi0.json",
-            "name": " 🥨dxawi0"
-        }
-       ]
-}
