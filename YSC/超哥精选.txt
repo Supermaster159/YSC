@@ -34,54 +34,42 @@
         },                 
         {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/01.json",
-            "name": " 🥨Ray线路"
-        },
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/One.json",
-            "name": " 🥨One线路"
-        },
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/xyq.json",
-            "name": " 🥨湘雅情线路"
+            "name": " 🥨01线路"
         },
         {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/OK321.json",
-            "name": " 🥨OK线路"
-        },
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/TSQ.json",
-            "name": " 🥨TSQ线路"
-        }, 
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/运输车.json",
-            "name": " 🥨运输车"
-        },   
-        {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小马.json",
-            "name": " 🥨小马线路"
+            "name": " 🥨OK321线路"
         },
         {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/巧记.json",
             "name": " 🥨巧记线路"
         },
         {
-            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/影视中天.json",
-            "name": " 🥨影视中天"
-        },           
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/摸鱼儿.json",
+            "name": " 🥨摸鱼儿线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/饭太硬1.json",
+            "name": " 🥨饭太硬线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/HCCX.json",
+            "name": " 🥨荷城茶秀线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/蜗牛.json",
+            "name": " 🥨蜗牛线路"
+        },
         {
             "url": "http://liucn.cc/box/m.json",
             "name": " 🧀老刘CC"
-        },     
-        {
-            "url": "http://肥猫.live",
-            "name": " 🧀肥猫宝贝"
-        },                                                               
+        },                                                             
         {
             "url": "http://tv.nxog.top/m",
             "name": "🧀欧歌线路"
         },     
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
+            "url": "https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
             "name": " 🧀荷城茶秀"
         }
        ]
