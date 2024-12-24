@@ -60,7 +60,7 @@
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/蜗牛.json",
             "name": " 🥨蜗牛线路"
         },
-                {
+        {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/T4.json",
             "name": " 🥨T4线路"
         },
@@ -72,7 +72,7 @@
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/刘伟日记.json",
             "name": " 🥨刘伟日记线路"
         },
-                {
+        {
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小苹果.json",
             "name": " 🥨小苹果线路"
         },
