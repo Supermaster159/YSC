@@ -1,0 +1,1776 @@
+{
+    "sites": [
+        {
+            "key": "灏忚嫻鏋�",
+            "name": "馃崕涓诲姏婧�",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "t4浣�",
+            "name": "馃崁鈹冭眴鐡ｇ簿閫�",
+            "type": 1,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "360_spider",
+            "name": "馃360褰辫瀹樻柟",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "drpy_js_閰蜂簯涓冧竷1",
+            "name": "馃崕澶囦唤婧愪竴",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_appys_kyTV",
+            "name": "馃崕澶囦唤婧愪簩",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "蹇湅",
+            "name": "馃崕澶囦唤婧愪笁",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_YQKAPP",
+            "name": "馃崕澶囦唤婧愬洓",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "馃崕澶囦唤婧愪簲",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_XBPQ_楗洟",
+            "name": "馃崕澶囦唤婧愬叚",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/楗洟HD.json"
+        },
+        {
+            "key": "csp_appys_k",
+            "name": "馃崕澶囦唤婧愪竷",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "csp_appys_g",
+            "name": "馃崕澶囦唤婧愬叓",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vod.dmdh.top:5680/api.php/app/"
+        },
+        {
+            "key": "csp_Yj1211",
+            "name": "馃憫鐩存挱鍚堥泦",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "T4鐩存挱杞偣鎾�",
+            "name": "馃摵锔庣數瑙嗙偣鎾�",
+            "type": 4,
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "馃懆鈥嶐煂惧啘姘戝奖瑙�",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/Nmys.json"
+        },
+        {
+            "key": "閲忓瓙璧勬簮",
+            "name": "馃閲忓瓙璧勬簮",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "鍥戒骇鍓�",
+                "鍥戒骇鍔ㄦ极",
+                "娉板浗鍓�",
+                "鍙版咕鍓�",
+                "棣欐腐鍓�",
+                "娆х編鍓�",
+                "闊╁浗鍓�",
+                "鏃ユ湰鍓�",
+                "鍔ㄦ极",
+                "浣撹偛",
+                "鍓ф儏鐗�",
+                "鍔ㄤ綔鐗�",
+                "鐖辨儏鐗�",
+                "鍠滃墽鐗�"
+            ]
+        },
+        {
+            "key": "csp_555鐢靛奖",
+            "name": "馃惥涓変簲鐢靛奖",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "浣庣",
+            "name": "馃悶浣庣褰辫",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "click": "ddys.tv;#vjsp > button"
+        },
+        {
+            "key": "csp_363",
+            "name": "鈽€锔忓ぇ鏄庡奖瑙�",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://lzrjk.hao363.com/api.php/v1.vod"
+        },
+        {
+            "key": "csp_AppMr",
+            "name": "馃浜屾槑褰辫",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_鍜叿",
+            "name": "馃嵆鈹冨挭閰封攦褰辫",
+            "type": 1,
+            "api": "https://yingke.yibowang.asia/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2
+        },
+        {
+            "key": "csp_CZSPP",
+            "name": "鍘傞暱",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzy03.com/"
+        },
+        {
+            "key": "17kan",
+            "name": "鈿金煆€鐞冭禌1",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/17%E7%9C%8B%E7%90%83.json"
+        },
+        {
+            "key": "csp_xpath_鐞冭糠2",
+            "name": "鈿金煆€鐞冭禌2",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%90%83%E8%BF%B72.json"
+        },
+        {
+            "key": "csp_xpath_鐞冭糠鐩存挱",
+            "name": "鈿金煆€鐞冭禌3",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"
+        },
+        {
+            "key": "js_B绔欑簿绠€",
+            "name": "馃叡锔忊攦鍝斿摡鈹冪簿绠€",
+            "type": 3,
+            "api": "http://m35.grelighting.cn/html/box/js/drpymin.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/js/B绔欑簿绠€.js"
+        },
+        {
+            "key": "闊充箰",
+            "name": "馃帳闊充箰鐜板満",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+        },
+        {
+            "key": "鐑垶",
+            "name": "馃拑濂冲洟鐑垶",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+        },
+        {
+            "key": "鍎跨",
+            "name": "馃惎鍎跨涔愬洯",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+        },
+        {
+            "key": "瀛︿範",
+            "name": "馃摑瀛︿範鍥湴",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+        },
+        {
+            "key": "杞欢",
+            "name": "馃摎杞欢鏁欑▼",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+        },
+        {
+            "key": "缇庨",
+            "name": "馃崝缇庨鍚堥泦",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+        },
+        {
+            "key": "鎴忔洸",
+            "name": "馃憳鎴忔洸鍚堥泦",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
+        },
+        {
+            "key": "csp_Bd",
+            "name": "馃摨鍝斿榾褰辫",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "杩藉墽鍠�",
+            "name": "馃惐杩藉墽鍠�",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LibVio",
+            "name": "馃崚LibVio",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_Auete",
+            "name": "馃惣Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "鉁屼袱涓狟T",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Jianying",
+            "name": "馃専绠€褰�",
+            "api": "csp_JianYing",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
+        },
+        {
+            "key": "csp_鍓ц崚",
+            "name": "馃懣鍓ц崚",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_XYQHiker_姘㈣棰�",
+            "name": "馃寫姘㈣棰�",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
+        },
+        {
+            "key": "csp_biubiu_瀹岀編鐪嬬湅",
+            "name": "馃挴瀹岀編鐪嬬湅",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B.json"
+        },
+        {
+            "key": "mjxq_spider",
+            "name": "馃審缇庡墽鏄熺悆",
+            "type": 3,
+            "api": "csp_Mjxq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Tkys",
+            "name": "馃対澶╃┖褰遍櫌",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_dd5555",
+            "name": "馃崊555 褰辫",
+            "api": "csp_Dy555",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "Nfyun",
+            "name": "馃對Nf浜�",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "馃尭鍔ㄦ极",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "3EDY",
+            "name": "馃尨3EDY(EXO)",
+            "type": 3,
+            "api": "csp_EEEDY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Yj1211",
+            "name": "馃摳鐩存挱鍚堥泦",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_BBB",
+            "name": "馃叡锔忓摂鍝╁摂鍝�",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+        },
+        {
+            "key": "csp_xpath_yinfans",
+            "name": "馃挜闊宠寖涓�4K",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+        },
+        {
+            "key": "bdys",
+            "name": "馃Р纾佸姏楂樻竻",
+            "type": 3,
+            "api": "csp_XPbd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%A3%81%E5%8A%9B.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "馃摠鎺ㄩ€�",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "c3895f91c81741959c22feb5fe3a5def"
+        },
+        {
+            "key": "csp_xpath_clss",
+            "name": "馃Р纾佸姏鎼滅储",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%A3%81%E5%8A%9B%E6%90%9C%E7%B4%A2.json"
+        },
+        {
+            "key": "csp_Alist",
+            "name": "馃梻Alist",
+            "type": 3,
+            "api": "csp_Alist",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/Alist.json"
+        },
+        {
+            "key": "csp_xpath_kuqimv",
+            "name": "馃帳缁忓吀MV",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%BB%8F%E5%85%B8MV.json"
+        },
+        {
+            "key": "鐭棰戣仛鍚�",
+            "name": "馃摫鐭棰戣仛鍚�",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+        },
+        {
+            "key": "铏庣墮",
+            "name": "馃惎铏庣墮",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%99%8E%E7%89%99.json"
+        },
+        {
+            "key": "csp_biubiu_鏂楅奔",
+            "name": "馃鏂楅奔",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E6%96%97%E9%B1%BC.json"
+        },
+        {
+            "key": "csp_QQ",
+            "name": "馃惂鑵捐锛堝畼锛�",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_MGTV",
+            "name": "馃キ鑺掓灉锛堝畼锛�",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_IQIYI",
+            "name": "馃鐖卞鑹猴紙瀹橈級",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "youku",
+            "name": "馃憫浼橀叿锛堝畼锛�",
+            "type": 0,
+            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "categories": [
+                "缁艰壓",
+                "鍔ㄦ极",
+                "鍔ㄤ綔鐗�",
+                "鍠滃墽鐗�",
+                "鐖辨儏鐗�",
+                "绉戝够鐗�",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗�",
+                "鎴樹簤鐗�",
+                "鍥戒骇鍓�",
+                "娓彴鍓�",
+                "鏃ラ煩鍓�",
+                "娆х編鍓�",
+                "鎯婃倸鐗�",
+                "鐘姜鐗�",
+                "鍐掗櫓鐗�",
+                "鎮枒鐗�",
+                "鍔ㄧ敾鐗�",
+                "姝︿緺鐗�",
+                "濂囧够鐗�",
+                "灏戝効",
+                "鍏朵粬鐗�"
+            ]
+        },
+        {
+            "key": "PpTV",
+            "name": "馃摵PPTV锛堝畼锛�",
+            "type": 0,
+            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "categories": [
+                "缁艰壓",
+                "鍔ㄦ极",
+                "鍔ㄤ綔鐗�",
+                "鍠滃墽鐗�",
+                "鐖辨儏鐗�",
+                "绉戝够鐗�",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗�",
+                "鎴樹簤鐗�",
+                "鍥戒骇鍓�",
+                "娓彴鍓�",
+                "鏃ラ煩鍓�",
+                "娆х編鍓�",
+                "鎯婃倸鐗�",
+                "鐘姜鐗�",
+                "鍐掗櫓鐗�",
+                "鎮枒鐗�",
+                "鍔ㄧ敾鐗�",
+                "姝︿緺鐗�",
+                "灏戝効",
+                "鍏朵粬鐗�"
+            ]
+        },
+        {
+            "key": "csp_biubiu_鍘傞暱璧勬簮-钃濆厜",
+            "name": "馃彈锔忓巶闀胯摑鍏�",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
+        },
+        {
+            "key": "csp_biubiu_555鐢靛奖",
+            "name": "馃崊555 鐢靛奖",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/555%E7%94%B5%E5%BD%B1.json"
+        },
+        {
+            "key": "鑺辩尗褰辫",
+            "name": "馃惐鑺辩尗褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "浜戞挱鐪嬬湅",
+            "name": "馃尐浜戞挱鐪嬬湅",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
+        },
+        {
+            "key": "姣旂壒褰辫",
+            "name": "馃挵姣旂壒褰辫",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "鐪嬬湅褰辫",
+            "name": "馃憮鐪嬬湅褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%9C%8B%E7%9C%8B%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "灏忓己褰辫糠",
+            "name": "馃惒灏忓己褰辫糠",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
+        },
+        {
+            "key": "瓒呮竻褰辫",
+            "name": "馃枼瓒呮竻褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%B6%85%E6%B8%85%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "涔岄緹褰遍櫌",
+            "name": "馃悽涔岄緹褰遍櫌",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "浜轰汉褰辫",
+            "name": "馃懌浜轰汉褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "璞嗚褰辫",
+            "name": "馃帇璞嗚褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%B1%86%E8%A7%92%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "涓変節褰辫",
+            "name": "馃悙涓変節褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "鍏害褰辫",
+            "name": "馃崹鍏害褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "鍙ｈ褰遍櫌",
+            "name": "馃憹鍙ｈ褰遍櫌",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "涓嶅崱褰遍櫌",
+            "name": "馃弲涓嶅崱褰遍櫌",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "骞查キ褰辫",
+            "name": "馃崥骞查キ褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "闇告皵褰遍櫌",
+            "name": "馃闇告皵褰遍櫌",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E9%9C%B8%E6%B0%94%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "鍒╁ゥ褰遍櫌",
+            "name": "馃崻鍒╁ゥ褰遍櫌",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "鐒︾偔褰辫",
+            "name": "馃挘鐒︾偔褰辫",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "鏋佸搧褰辫",
+            "name": "馃挐鏋佸搧褰辫",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E6%9E%81%E5%93%81%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "csp_xp_jLgyy",
+            "name": "鉂勮摑鍏夊奖闄�",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "csp_xpath_dianyingn",
+            "name": "馃悅鐢靛奖鐗沊P",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%94%B5%E5%BD%B1%E7%89%9B.json"
+        },
+        {
+            "key": "csp_biubiu_楠氱伀鐢靛奖",
+            "name": "馃敟楠氱伀鐢靛奖",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+        },
+        {
+            "key": "csp_biubiu_褰辫宸ュ巶",
+            "name": "馃幀褰辫宸ュ巶",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
+        },
+        {
+            "key": "csp_biubiu_鐗圭嫍褰辫",
+            "name": "馃惗鐗圭嫍褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "csp_biubiu_钃濊帗褰辫",
+            "name": "馃钃濊帗褰辫",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "csp_biubiu_濂囦紭褰遍櫌ns",
+            "name": "馃憯濂囦紭褰遍櫌",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
+        },
+        {
+            "key": "csp_biubiu_yekong",
+            "name": "馃寖澶滅┖楂樻竻",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"
+        },
+        {
+            "key": "鍘荤湅鍔ㄦ极",
+            "name": "馃帄鍘荤湅鍔ㄦ极",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
+        },
+        {
+            "key": "鍔ㄦ极鐩撮摼",
+            "name": "馃幁鍔ㄦ极鐩撮摼",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+        },
+        {
+            "key": "csp_biubiu_椋庤溅鍔ㄦ极",
+            "name": "馃嵀椋庤溅鍔ㄦ极",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+        },
+        {
+            "key": "csp_xpath___鍔ㄦ极宸村＋",
+            "name": "馃鍔ㄦ极宸村＋",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+        },
+        {
+            "key": "csp_biubiu_OmoFun鍔ㄦ极",
+            "name": "馃OmoFun鍔ㄦ极",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
+        },
+        {
+            "key": "VIP褰辫",
+            "name": "馃挸VIP鐢靛奖",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/VIP%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "csp_xpath_jbb",
+            "name": "馃捒鍓х櫧鐧�",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E5%89%A7%E7%99%BD%E7%99%BD.json"
+        },
+        {
+            "key": "csp_biubiu_voflix",
+            "name": "馃寑voflix",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/voflix.json"
+        },
+        {
+            "key": "csp_biubiu_cupfox",
+            "name": "馃鑼舵澂鐙�",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
+        },
+        {
+            "key": "9E03",
+            "name": "馃巿9E03",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "csp_AppYsV2_缇庡墽鑼�",
+            "name": "馃缇庡墽鑼�(浼�)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://ttzmz.net/api.php/v1.vod"
+        },
+        {
+            "key": "鍖楅泚璧勬簮",
+            "name": "馃鍖楅泚璧勬簮",
+            "type": 1,
+            "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playUrl": "",
+            "categories": [
+                "鐢靛奖",
+                "鍥戒骇鍓�",
+                "娓彴鍓�",
+                "鏃ラ煩鍓�",
+                "娆х編鍓�",
+                "缁艰壓",
+                "鍔ㄦ极"
+            ]
+        },
+        {
+            "key": "澶氬",
+            "name": "馃惗澶氬褰辫(浼�)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "鍥戒骇鍓�",
+                "娓彴鍓�",
+                "鏃ラ煩鍓�",
+                "娆х編鍓�",
+                "缁艰壓",
+                "鍔ㄦ极",
+                "鍔ㄤ綔鐗�",
+                "鍠滃墽鐗�",
+                "鐖辨儏鐗�",
+                "绉戝够鐗�",
+                "鎭愭€栫墖",
+                "鍓ф儏鐗�",
+                "鎴樹簤鐗�"
+            ]
+        },
+        {
+            "key": "閼€昏祫婧�",
+            "name": "鈽旈懌鎬昏祫婧�(浼�)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "QC 褰辫",
+            "name": "馃QC 褰辫(浼�)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "鍒虹尙褰辫",
+            "name": "馃鍒虹尙褰辫(浼�)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
+        },
+        {
+            "key": "鐜栧嵖涔愭挱",
+            "name": "馃Н鐜栧嵖涔愭挱(浼�)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://vod.nqcode.cn/api.php/v1.vod"
+        },
+        {
+            "key": "灏樹簯褰辫",
+            "name": "鈽佸皹浜戝奖瑙�(浼�)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://v.i7yc.cn/api.php/v1.vod"
+        },
+        {
+            "key": "涓囪兘褰遍櫌",
+            "name": "馃挸涓囪兘褰遍櫌(浼�)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "娉㈡瘮褰辫",
+            "name": "馃崰娉㈡瘮褰辫(浼�)",
+            "type": 1,
+            "api": "http://xxhhsc.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "瑗挎煔褰辫",
+            "name": "馃キ瑗挎煔褰辫(浼�)",
+            "type": 1,
+            "api": "http://43.135.75.180:9999/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "澶氬璧勬簮",
+            "name": "馃崐澶氬璧勬簮(浼�)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "澶氬璧勬簮2",
+            "name": "馃ガ澶氬璧勬簮2(浼�)",
+            "type": 1,
+            "api": "https://a.7dyu.cn/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "姣忓ぉ鐪嬬湅",
+            "name": "馃崒姣忓ぉ鐪嬬湅(浼�)",
+            "type": 1,
+            "api": "http://47.113.126.237:1234/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "鏈ㄥ瓙鐪嬪墽",
+            "name": "馃崚鏈ㄥ瓙鐪嬪墽(瀹�)",
+            "type": 1,
+            "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "鑰冩媺璧勬簮",
+            "name": "馃崍鑰冩媺璧勬簮(瀹�)",
+            "type": 1,
+            "api": "https://ikaola.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "蹇嗘ⅵ璧勬簮",
+            "name": "馃蹇嗘ⅵ璧勬簮(瀹�)",
+            "type": 1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "澶╁爞璧勬簮",
+            "name": "馃尪澶╁爞璧勬簮(瀹�)",
+            "type": 1,
+            "api": "http://vipmv.cc/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "姹熸箹瀹橀噰",
+            "name": "馃嵆姹熸箹瀹橀噰(瀹�)",
+            "type": 1,
+            "api": "http://119.29.1.173/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "鍦熺嫍 360",
+            "name": "馃鍦熺嫍 360(瀹�)",
+            "type": 1,
+            "api": "http://360.tgzy.cc/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "璇鸿璧勬簮",
+            "name": "馃崙璇鸿璧勬簮(瀹�)",
+            "type": 1,
+            "api": "http://caiji.nxflv.com/api.php/provide/vod/",
+            "playUrl": "https://www.nxflv.com/?url=",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "M3U8璧勬簮",
+            "name": "馃崌M3U8璧勬簮(瀹�)",
+            "type": 1,
+            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "褰卞浘褰辫",
+            "name": "馃オ褰卞浘褰辫(鑱�)",
+            "type": 1,
+            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "闆ㄥ摜褰辫",
+            "name": "馃崯闆ㄥ摜褰辫(鑱�)",
+            "type": 1,
+            "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "澶╁ぉ褰辫",
+            "name": "馃澶╁ぉ褰辫(鑱�)",
+            "type": 1,
+            "api": "http://tttv.cf/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "鐩樼湅褰辫",
+            "name": "馃鐩樼湅褰辫(鑱�)",
+            "type": 1,
+            "api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "骞婚褰辫",
+            "name": "馃カ骞婚褰辫(鑱�)",
+            "type": 1,
+            "api": "http://vip857.top/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "灏忛笩鍔ㄦ极",
+            "name": "馃崥灏忛笩鍔ㄦ极(鑱�)",
+            "type": 1,
+            "api": "http://xydm.baicai.buzz/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "閾僵褰辫",
+            "name": "馃崸閾僵褰辫(鑱�)",
+            "type": 1,
+            "api": "http://lz0716.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "娴风帀褰辫",
+            "name": "馃崿娴风帀褰辫(鑱�)",
+            "type": 1,
+            "api": "http://tv2.hykjtv.cn/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "鐧炬窐褰辫",
+            "name": "馃崹鐧炬窐褰辫(鑱�)",
+            "type": 1,
+            "api": "http://ys.58g8.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "闃块噷褰辫",
+            "name": "馃イ闃块噷褰辫(鑱�)",
+            "type": 1,
+            "api": "http://aliys.cn:90/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "鍗冨鏃跺厜",
+            "name": "馃嵄鍗冨鏃跺厜(鑱�)",
+            "type": 1,
+            "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "MX 褰遍櫌",
+            "name": "馃尛MX 褰遍櫌(鑱�)",
+            "type": 1,
+            "api": "http://49.235.107.145:81/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "MBO 褰辫",
+            "name": "馃嵐MBO 褰辫(鑱�)",
+            "type": 0,
+            "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
+            "searchable": 0,
+            "quickSearch": 0
+        }
+    ],
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cDovL20zNS5ncmVsaWdodGluZy5jbi9odG1sL3piMS50eHQ="
+                    ]
+                }
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "瑙ｆ瀽鑱氬悎",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json骞跺彂",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json杞",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "瑙ｆ瀽1",
+            "type": 1,
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="
+        },
+        {
+            "name": "瑙ｆ瀽2",
+            "type": 1,
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "鑵捐",
+                    "浼侀箙",
+                    "IQiYi",
+                    "qiyi",
+                    "鐖卞鑹�",
+                    "濂囪壓",
+                    "youku",
+                    "YouKu",
+                    "浼橀叿",
+                    "sohu",
+                    "SoHu",
+                    "鎼滅嫄",
+                    "letv",
+                    "LeShi",
+                    "涔愯",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "鑺掓灉",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "瑗跨摐瑙嗛",
+                    "鑵捐瑙嗛",
+                    "濂囪壓瑙嗛",
+                    "浼橀叿瑙嗛",
+                    "鑺掓灉瑙嗛",
+                    "涔愯瑙嗛"
+                ]
+            }
+        },
+        {
+            "name": "瑙ｆ瀽3",
+            "type": 1,
+            "url": "https://okjx.cc/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905",
+                    "浼樻挱绾胯矾",
+                    "鑵炬挱绾胯矾"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "name": "瑙ｆ瀽4",
+            "type": 1,
+            "url": "http://j.grelighting.cn/parser898/?url="
+        },
+        {
+            "name": "瑙ｆ瀽5",
+            "type": 1,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "瑙ｆ瀽6",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "瑙ｆ瀽7",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "瑙ｆ瀽8",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "瑙ｆ瀽9",
+            "type": 1,
+            "url": ""
+        },
+        {
+            "name": "瑙ｆ瀽10",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "瑙ｆ瀽11",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "瑙ｆ瀽12",
+            "type": 0,
+            "url": "http://www.ckmov.vip/api.php?url="
+        },
+        {
+            "name": "瑙ｆ瀽13",
+            "type": 0,
+            "url": "http://api.wpsseo.cn/?v="
+        },
+        {
+            "name": "瑙ｆ瀽14",
+            "type": 0,
+            "url": "https://go.yh0523.cn/y.cy?url="
+        },
+        {
+            "name": "瑙ｆ瀽15",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "瑙ｆ瀽16",
+            "type": 0,
+            "url": "https://svip.bljiex.cc/?v="
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+    ],
+    "ijk": [
+        {
+            "group": "杞В鐮�",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "纭В鐮�",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
