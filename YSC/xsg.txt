@@ -109,10 +109,6 @@
             "name": " 🧀老刘CC"
         },                                                             
         {
-            "url": "http://tv.nxog.top/m",
-            "name": "🧀欧歌线路"
-        },     
-        {
             "url": "https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
             "name": " 🧀荷城茶秀"
         }
