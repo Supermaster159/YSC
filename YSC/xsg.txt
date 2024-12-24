@@ -60,6 +60,50 @@
             "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/蜗牛.json",
             "name": " 🥨蜗牛线路"
         },
+                {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/T4.json",
+            "name": " 🥨T4线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/YSC.json",
+            "name": " 🥨运输车线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/刘伟日记.json",
+            "name": " 🥨刘伟日记线路"
+        },
+                {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小苹果.json",
+            "name": " 🥨小苹果线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/小马.json",
+            "name": " 🥨小马线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/老虎.json",
+            "name": " 🥨老虎线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/胜寒.json",
+            "name": " 🥨胜寒线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/西夏.json",
+            "name": " 🥨西夏线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/超级.json",
+            "name": " 🥨超级线路"
+        },
+                {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/青龙.json",
+            "name": " 🥨青龙线路"
+        },
+        {
+            "url": "https://gitee.com/li-chao2333/ysc/raw/master/XL/蚂蚁.txt",
+            "name": " 🥨蚂蚁线路"
+        },
         {
             "url": "http://liucn.cc/box/m.json",
             "name": " 🧀老刘CC"
