@@ -118,7 +118,7 @@
         },    
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supermaster159/YSC/refs/heads/master/XL/h/CATCR.json",
-            "name": "index线路"
+            "name": "CATCR线路"
         },
        ]
 }
